@@ -1,7 +1,7 @@
  <h1 align="center">Hello👋, I am Andrés Felipe Castro 👨‍💻</h1>
- <h2 align="center">A junior backend developer from Colombia</h2>
+ <h2 align="center">A backend developer from Colombia</h2>
 
- - 🌱 I’m currently learning **Unit testing with Junit and Mockito**
+ - 🌱 I’m currently learning **Containers with Docker**
  - 🔭 I’m currently working on personal projects
  - 💬 Ask me about **backend**
  -  📫 How to reach me: **andres.cmonsalve@gmail.com**
