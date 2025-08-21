@@ -1,24 +1,27 @@
  <h1 align="center">Hello👋, I am Andrés Felipe Castro 👨‍💻</h1>
  <h2 align="center">A backend developer from Colombia</h2>
-<div style="display: flex; justify-content: space-between; align-items: center; gap: 20px; max-width: 800px; margin: 0 auto;">
-  <!-- Left Section -->
-  <div style="flex: 1;">
-    <ul style="list-style: none; padding: 0; margin: 0; font-size: 16px; line-height: 1.6;">
-      <li>🌱 I’m currently learning <strong>Containers with Docker</strong></li>
-      <li>🔭 I’m currently working on personal projects and improve my knowledge</li>
-      <li>💬 Ask me about <strong>backend</strong></li>
-      <li>📫 How to reach me: <strong>andres.cmonsalve@gmail.com</strong></li>
-    </ul>
-  </div>
-
-  <div style="flex-shrink: 0;">
-    <img 
-      src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3am1tcTFpc3c0NzhhdTljNnQxYm5haGptZ3Rsa2VxNDVqejRueWN1dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZS57kdXudVqsDX0TLH/giphy.gif" 
-      alt="gif" 
-      style="width: 250px; border-radius: 8px;"
-    >
-  </div>
-</div>
+<table align="center" border="0" style="border:none;">
+  <tr>
+    <!-- Left Section -->
+    <td style="vertical-align: top; padding-right: 20px; border:none;">
+      <ul>
+        <li>🌱 I’m currently learning <strong>Containers with Docker</strong></li>
+        <li>🔭 I’m currently working on personal projects and improving my knowledge</li>
+        <li>💬 Ask me about <strong>backend</strong></li>
+        <li>📫 How to reach me: <strong>andres.cmonsalve@gmail.com</strong></li>
+      </ul>
+    </td>
+    <!-- Right Section -->
+    <td style="border:none;">
+      <img 
+        src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3am1tcTFpc3c0NzhhdTljNnQxYm5haGptZ3Rsa2VxNDVqejRueWN1dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZS57kdXudVqsDX0TLH/giphy.gif" 
+        alt="gif" 
+        width="250" 
+        style="border-radius: 8px;" 
+      />
+    </td>
+  </tr>
+</table>
  
 <h2 align="left">Connect with me:</h3>
 <p align="left">
