@@ -1,10 +1,25 @@
  <h1 align="center">Hello👋, I am Andrés Felipe Castro 👨‍💻</h1>
  <h2 align="center">A backend developer from Colombia</h2>
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 20px; max-width: 800px; margin: 0 auto;">
+  <!-- Left Section -->
+  <div style="flex: 1;">
+    <ul style="list-style: none; padding: 0; margin: 0; font-size: 16px; line-height: 1.6;">
+      <li>🌱 I’m currently learning <strong>Containers with Docker</strong></li>
+      <li>🔭 I’m currently working on personal projects and improve my knowledge</li>
+      <li>💬 Ask me about <strong>backend</strong></li>
+      <li>📫 How to reach me: <strong>andres.cmonsalve@gmail.com</strong></li>
+    </ul>
+  </div>
 
- - 🌱 I’m currently learning **Containers with Docker**
- - 🔭 I’m currently working on personal projects and improve my knowledge
- - 💬 Ask me about **backend**
- -  📫 How to reach me: **andres.cmonsalve@gmail.com**
+  <div style="flex-shrink: 0;">
+    <img 
+      src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3am1tcTFpc3c0NzhhdTljNnQxYm5haGptZ3Rsa2VxNDVqejRueWN1dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZS57kdXudVqsDX0TLH/giphy.gif" 
+      alt="gif" 
+      style="width: 250px; border-radius: 8px;"
+    >
+  </div>
+</div>
+ 
 <h2 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/andres-felipe-castro-mon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/andres-felipe-castro-mon/" height="30" width="40" /></a>
